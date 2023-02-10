@@ -5,7 +5,12 @@
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/DevAssesmentAPI.runtimeconfig.json
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/DevAssesmentAPI.dll
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/DevAssesmentAPI.pdb
+/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -31,8 +36,3 @@
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/obj/Debug/net7.0/DevAssesmentAPI.pdb
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/obj/Debug/net7.0/DevAssesmentAPI.genruntimeconfig.cache
 /Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/obj/Debug/net7.0/ref/DevAssesmentAPI.dll
-/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
-/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
-/Users/gautamrm/Projects/DevAssesmentAPI/DevAssesmentAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
